@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pm2-logs/
+
+# Environment variables
+.env
+.env.*.local
+
+# Database files
+*.db
+*.sqlite
+
+# Debug files
+*.pid
+*.seed
+*.backup
+
+# IDE/editor specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db

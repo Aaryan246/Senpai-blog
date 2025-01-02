@@ -1,0 +1,23 @@
+# React build output
+build/
+dist/
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+.env.*.local
+
+# IDE/editor specific files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Misc
+.DS_Store
